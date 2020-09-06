@@ -1,5 +1,5 @@
 # PigGame
-It is a turn-based game which consist of rolling two dices and holding scores. You can also select the winning score. Developed with JS.
+It is a turn-based game which consist of rolling two dices and holding scores. You can also select the winning score. Developed with JavaScript.
 
 GAME RULES:
 
